@@ -1,2 +1,7 @@
 # FSM-GROM
-Forward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction
+A repository for Python implementation of the forward sensitivity method to estimate eddy viscosity parameters to stabilize reduced order models
+
+Ref: "Forward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction", Physical Review E, 2020
+     by: Shady Ahmed, Kinjal Bhar, Omer San, Adil RasheedForward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction
+     
+arXiv preprint: https://arxiv.org/abs/2005.10926
