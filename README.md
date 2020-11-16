@@ -2,7 +2,7 @@
 A repository for Python implementation of the forward sensitivity method to estimate eddy viscosity parameters to stabilize reduced order models
 
 Ref: "Forward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction", Physical Review E, 2020
-     by: Shady Ahmed, Kinjal Bhar, Omer San, Adil RasheedForward sensitivity approach for estimating eddy viscosity closures in nonlinear model reduction
+     by: Shady Ahmed, Kinjal Bhar, Omer San, and Adil Rasheed
      
 published version: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.043302
 
